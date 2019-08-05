@@ -1,0 +1,14 @@
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\client\impl\BaseClientImpl.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\controller\ReplyController.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\service\ReplyService.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\dao\ReplyDao.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\interceptor\JwtInterceptor.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\controller\BaseExceptionHandler.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\service\ProblemService.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\QaApplication.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\dao\ProblemDao.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Problem.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\config\InterceptorConfig.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\controller\ProblemController.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Reply.java
+C:\IdeaProject\tensquare_parent84\tensquare_qa\src\main\java\com\tensquare\qa\client\BaseClient.java

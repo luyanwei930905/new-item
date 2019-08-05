@@ -1,0 +1,5 @@
+com\tensquare\mongo\pojo\Spit.class
+com\tensquare\mongo\service\SpitService.class
+com\tensquare\mongo\dao\SpitDao.class
+com\tensquare\mongo\controller\SpitController.class
+com\tensquare\mongo\MongoApplication.class
