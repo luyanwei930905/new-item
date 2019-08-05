@@ -2,8 +2,10 @@ pipeline {
   agent any
   stages {
     stage('step1') {
-      steps {
-        sh '''node {  
+      parallel {
+        stage('step1') {
+          steps {
+            sh '''node {  
     stage(\'Build\') { 
         // 
     }
@@ -14,6 +16,23 @@ pipeline {
         // 
     }
 }'''
+          }
+        }
+        stage('branch1') {
+          steps {
+            sh '''node {  
+    stage(\'Build\') { 
+        // 
+    }
+    stage(\'Test\') { 
+        // 
+    }
+    stage(\'Deploy\') { 
+        // 
+    }
+}'''
+          }
+        }
       }
     }
   }
